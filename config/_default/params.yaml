@@ -31,7 +31,7 @@ twitter: 'JaneDoeMcGill'
 # Diplay a logo or initials in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo: ""
-initials: "JD"
+initials: ""
 
 
 # # Contact (edit or remove options as required)
