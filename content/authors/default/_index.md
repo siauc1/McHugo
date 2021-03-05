@@ -46,4 +46,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My research interests include Asset Pricing, Asset Pricing, and Asset Pricing.
+My research interests include Empirical Asset Pricing, Theoretical Asset Pricing, and More Asset Pricing in General.
