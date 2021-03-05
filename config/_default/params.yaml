@@ -9,7 +9,7 @@ links_title: false
 links_authors: false
 
 # Appearance
-theme: mcminimal
+theme: mcminimal #Stored in ./data/themes/
 day_night: false
 
 # Font style.
@@ -20,18 +20,18 @@ font_size: L
 ### SEO ###
 site_type: Person
 local_business_type: ''
-org_name: 'John Doe'
+org_name: 'Jane Doe'
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description: 'I am a Finance Ph.D. Candidate at McGill University. My research interests include Asset Pricing, Asset Pricing, and More Asset Pricing'
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter: 'JohnDoeMcGill'
+twitter: 'JaneDoeMcGill'
 
 # Diplay a logo or initials in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo: ""
-initials: ""
+initials: "JD"
 
 
 # # Contact (edit or remove options as required)

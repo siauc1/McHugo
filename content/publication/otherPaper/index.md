@@ -1,7 +1,7 @@
 ---
 title: "Another Amazing Article"
 authors:
-- with Jane Doe
+- with John Doe
 date: "2020-09-29"
 #doi: ""
 
